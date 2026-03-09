@@ -128,7 +128,8 @@ cd ..
 
 ## 8. 演示视频
 
-[演示视频链接]()
+[通过网盘分享的文件：lumen.mp4
+链接: https://pan.baidu.com/s/1LKLGoo9-0qhc7Oxkd23yYA?pwd=ab1c 提取码: ab1c]
 
 ## 9. 下载与安装
 
