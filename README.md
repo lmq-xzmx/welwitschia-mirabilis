@@ -130,7 +130,7 @@ cd ..
 ## 8. 演示视频
 
 [通过网盘分享的文件：lumen.mp4
-链接: https://pan.baidu.com/s/1LKLGoo9-0qhc7Oxkd23yYA?pwd=ab1c 提取码: ab1c]
+链接: https://pan.baidu.com/s/1aFzRphmHDKn8otMB5tykTA 提取码: bn23]
 
 ## 9. 下载与安装
 
