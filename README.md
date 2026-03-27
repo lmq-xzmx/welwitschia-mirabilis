@@ -46,9 +46,6 @@
 
 ## 5. 系统界面预览
 
-![系统架构图](docs/images/architecture.svg)
-
-![首页](docs/project-images/首页.png)
 
 ![剧本分析页面](docs/images/OneScript.png)
 
