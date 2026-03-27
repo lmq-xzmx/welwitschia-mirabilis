@@ -50,14 +50,18 @@
 
 ![首页](docs/project-images/首页.png)
 
-![剧本分析页面](docs/project-images/1（Script）.png)
+![剧本分析页面](docs/images/OneScript.png)
 
-![美术指导页面](docs/project-images/2(Art%20DIrection).png)
+![美术指导页面](docs/images/two_art.png)
 
-![资产管理页面](docs/project-images/3、Assert.png)
+![资产管理页面](docs/images/3、Assert.png)
 
-![故事板页面](docs/project-images/4(Story).png)
+![故事板页面](docs/images/4(Story).png)
+![故事板页面](docs/images/5、ScreenShot.png)
+![故事板页面](docs/images/6、ScreenShot.png)
 
+![故事板页面](docs/images/7.Voice.png)
+![故事板页面](docs/images/8.ScreenShot.png)
 ## 6. 项目使用指南
 
 ### 6.1 环境要求
