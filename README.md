@@ -129,8 +129,8 @@ cd ..
 
 ## 8. 演示视频
 
-[通过网盘分享的文件：lumen.mp4
-链接: https://pan.baidu.com/s/1aFzRphmHDKn8otMB5tykTA 提取码: bn23]
+通过网盘分享的文件：短剧新.mp4
+链接: https://pan.baidu.com/s/1JMCL-wAxvDEJ02O-cBYA5Q 提取码: bn37
 
 ## 9. 下载与安装
 
