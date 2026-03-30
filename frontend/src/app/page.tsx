@@ -95,7 +95,7 @@ export default function Home() {
                   backgroundClip: 'text',
                 }}
               >
-                DEEP
+                WMLB
               </span>
               <button
                 onClick={() => setIsEnvDialogOpen(true)}

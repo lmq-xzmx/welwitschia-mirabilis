@@ -45,7 +45,7 @@ export default function PipelineSidebar({ activeStep, onStepChange, steps }: Pip
                             backgroundClip: 'text',
                         }}
                     >
-                        DEEP
+                        WMLB
                     </span>
                 </div>
 
@@ -110,7 +110,7 @@ export default function PipelineSidebar({ activeStep, onStepChange, steps }: Pip
                 <div className="flex items-center gap-3 px-4 py-3 rounded-lg bg-white/5 border border-white/5">
                     <div className="w-8 h-8 rounded-full bg-gradient-to-tr from-primary to-accent" />
                     <div className="flex flex-col">
-                        <span className="text-sm font-medium text-white">Project Alpha</span>
+                        <span className="text-sm font-medium text-white">我的短剧</span>
                         <span className="text-xs text-gray-500">v0.1.0</span>
                     </div>
                 </div>
