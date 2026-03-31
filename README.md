@@ -132,14 +132,3 @@ cd ..
 通过网盘分享的文件：短剧新.mp4
 链接: https://pan.baidu.com/s/1JMCL-wAxvDEJ02O-cBYA5Q 提取码: bn37
 
-## 9. 下载与安装
-
-项目提供预编译的桌面应用版本，支持一键下载和安装。
-
-[下载最新版本](https://github.com/your-repo/releases/download/v1.0/welwitschia-mirabilis-setup.exe) (Windows)
-
-[下载最新版本](https://github.com/your-repo/releases/download/v1.0/welwitschia-mirabilis.dmg) (macOS)
-
-[下载最新版本](https://github.com/your-repo/releases/download/v1.0/welwitschia-mirabilis.AppImage) (Linux)
-
-*注意：请替换上述链接为实际的发布地址。*
